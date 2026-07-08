@@ -49,6 +49,6 @@ st3.add_grade(87)
 st1.display_inf()
 st2.display_inf()
 st3.display_inf()
-
+print("done")
 
 
